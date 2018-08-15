@@ -1,0 +1,20 @@
+PODS:
+  - Toast (4.0.0)
+  - VasSonic (3.0.0)
+
+DEPENDENCIES:
+  - Toast (~> 4.0.0)
+  - VasSonic (~> 3.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Toast
+    - VasSonic
+
+SPEC CHECKSUMS:
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+  VasSonic: 681ec95418d485d8c501d13549e25dff18754893
+
+PODFILE CHECKSUM: 12261abbd2519ccc5e4f98c9d1f56cdddf4a04cb
+
+COCOAPODS: 1.5.3
